@@ -1,6 +1,8 @@
 ## Hi there 👋 I´m Egoi Muñoz
 
-🌱 I’m currently learning mobile developer
+🌱 I’m currently learning mobile📱 developer
+I´m learning  🖥️ Kotlin (JetPack Kompose) and SwiftUI 
+
 
 <!--
 **NaturAndMedia/NaturAndMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
